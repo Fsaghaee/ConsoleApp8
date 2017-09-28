@@ -10,6 +10,8 @@ namespace ConsoleApp8
     {
         static void Main(string[] args)
         {
+#
+            int X = 0;
         }
     }
 }
